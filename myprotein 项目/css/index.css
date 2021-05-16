@@ -1,0 +1,91 @@
+.xz-banner .carousel-indicators li {
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 50%; }
+.xz-banner .carousel-indicators .active {
+  background-color: #0aa1ed; }
+.xz-banner .xz-banner-control {
+  padding: 30px 15px;
+  border-radius: 2px;
+  background-size: 70%;
+  background-color: rgba(0, 0, 0, 0.5) !important; }
+
+.price-color {
+  color: #0aa1ed; }
+
+.xz-table .xz-title {
+  border-bottom: 2px solid #b8b8b8;
+  height: 50px;
+  color: #333333;
+  line-height: 50px; }
+  .xz-table .xz-title img {
+    margin-top: -4px; }
+.xz-table .xz-fence .xz-card {
+  border-radius: 0;
+  background-color: #e0e0e0;
+  border: 0; }
+  .xz-table .xz-fence .xz-card h3 {
+    background-color: transparent;
+    border: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color: #333333; }
+  .xz-table .xz-fence .xz-card .xz-cardbody p {
+    font-size: 12px;
+    color: #b8b8b8; }
+  .xz-table .xz-fence .xz-card .xz-cardbody button {
+    color: #fff;
+    background-color: #0aa1ed; }
+
+@media (max-width: 992px) {
+  .xz-card-1, .xz-card-2 {
+    height: unset !important;
+    text-align: center;
+    margin-bottom: 20px; }
+    .xz-card-1 .card-body, .xz-card-2 .card-body {
+      width: 100% !important; }
+    .xz-card-1 .xz-card-img, .xz-card-2 .xz-card-img {
+      width: 80%;
+      margin: 0 auto;
+      display: block; }
+
+  .xz-card-2 h3 {
+    width: 100% !important; }
+
+  .xz-card-3 {
+    margin-bottom: 20px; }
+    .xz-card-3 .xz-card-img {
+      width: 80%;
+      margin: 0 auto;
+      display: block; } }
+@media (min-width: 992px) {
+  .xz-card-1 {
+    height: 370px;
+    margin-bottom: 30px; }
+    .xz-card-1 .xz-card-img {
+      margin: 0;
+      position: absolute;
+      left: unset;
+      right: 5%;
+      top: 10%; }
+
+  .xz-card-2 {
+    height: 270px; }
+    .xz-card-2 .xz-card-img {
+      width: 50%;
+      margin: 0;
+      position: absolute;
+      left: unset;
+      right: 0;
+      top: 20%; }
+
+  .xz-card-3 {
+    height: 270px;
+    width: 100%; }
+    .xz-card-3 .xz-cardbody {
+      padding: 10px;
+      text-align: center; }
+      .xz-card-3 .xz-cardbody p {
+        margin-bottom: 10px; } }
+
+/*# sourceMappingURL=index.css.map */

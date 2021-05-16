@@ -1,0 +1,25 @@
+@keyframes move {
+  0% {
+    transform: translateX(0); }
+  100% {
+    transform: translateX(-50%); } }
+.xz-roll h2 {
+  line-height: 50px; }
+  .xz-roll h2 span {
+    font-size: 12px; }
+.xz-roll .xz-box {
+  overflow: hidden;
+  width: 100%; }
+  .xz-roll .xz-box ul {
+    width: 200%;
+    animation: 40s linear move infinite; }
+    .xz-roll .xz-box ul:hover {
+      animation-play-state: paused; }
+    .xz-roll .xz-box ul li {
+      width: 12.5%; }
+      .xz-roll .xz-box ul li img {
+        width: 80%; }
+      .xz-roll .xz-box ul li p {
+        font-size: 12px; }
+
+/*# sourceMappingURL=roll.css.map */

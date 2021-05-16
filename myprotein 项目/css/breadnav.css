@@ -1,0 +1,8 @@
+.xz-breadnav .breadcrumb {
+  background-color: #f5f5f5; }
+.xz-breadnav .breadcrumb-item + .breadcrumb-item::before {
+  content: ">" !important; }
+.xz-breadnav .breadcrumb a {
+  color: red !important; }
+
+/*# sourceMappingURL=breadnav.css.map */

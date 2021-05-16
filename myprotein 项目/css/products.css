@@ -1,0 +1,82 @@
+.xz-main .xz-page, .xz-sidebar .xz-notice .xz-h6, .xz-sidebar .xz-shop .xz-h6 {
+  background-image: linear-gradient(#f5f4f5, #ccc); }
+
+.xz-sidebar .xz-shop .xz-amass .xz-overflow li .xz-car-txt {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+body {
+  background-color: f5f5f5; }
+
+.xz-main {
+  margin-top: 20px; }
+  .xz-main .xz-products-card h4 {
+    background-color: transparent;
+    border: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color: #0aa1ed; }
+  .xz-main .xz-products-card p {
+    font-size: 12px;
+    color: #b8b8b8; }
+  .xz-main .xz-products-card button {
+    width: 50%;
+    font-size: 12px;
+    color: #fff;
+    background-color: #0aa1ed; }
+  .xz-main .xz-products-card .xz-btn-num {
+    background-color: #b8b8b8;
+    color: #fff; }
+  .xz-main .xz-page {
+    font-size: 12px;
+    height: 40px; }
+
+.xz-sidebar .xz-notice .xz-h6 {
+  height: 40px;
+  line-height: 40px; }
+  .xz-sidebar .xz-notice .xz-h6 span {
+    color: #808080; }
+.xz-sidebar .xz-shop .xz-h6 {
+  height: 40px;
+  line-height: 40px; }
+  .xz-sidebar .xz-shop .xz-h6 span {
+    color: #808080;
+    font-size: 14px; }
+.xz-sidebar .xz-shop .xz-amass {
+  background-color: #fff;
+  font-size: 12px; }
+  .xz-sidebar .xz-shop .xz-amass .xz-overflow {
+    height: 200px;
+    overflow-y: auto; }
+    .xz-sidebar .xz-shop .xz-amass .xz-overflow li {
+      color: #666666;
+      height: 30px;
+      line-height: 30px;
+      border-bottom: 1px dotted #999; }
+      .xz-sidebar .xz-shop .xz-amass .xz-overflow li .xz-car-txt {
+        font-size: 12px; }
+      .xz-sidebar .xz-shop .xz-amass .xz-overflow li .xz-car-calc input {
+        width: 30px;
+        border-radius: 0;
+        height: 24px; }
+      .xz-sidebar .xz-shop .xz-amass .xz-overflow li .xz-car-calc a {
+        width: 24px;
+        height: 24px;
+        background-color: #b8b8b8;
+        text-align: center;
+        line-height: 24px; }
+.xz-sidebar .xz-shop .xz-settle {
+  height: 40px;
+  background-color: #666666; }
+  .xz-sidebar .xz-shop .xz-settle img {
+    width: 30px;
+    height: 30px; }
+  .xz-sidebar .xz-shop .xz-settle span {
+    font-size: 20px;
+    line-height: 40px; }
+  .xz-sidebar .xz-shop .xz-settle button {
+    width: 35%;
+    background-color: #0aa1ed; }
+
+/*# sourceMappingURL=products.css.map */

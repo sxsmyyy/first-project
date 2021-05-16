@@ -1,0 +1,17 @@
+footer {
+  margin-top: 30px; }
+  footer .xz-server {
+    width: 100%; }
+    footer .xz-server li {
+      flex-basis: 25%;
+      color: #666666; }
+  footer .xz-foot ul li {
+    line-height: 1.8;
+    font-size: 14px;
+    color: #666666; }
+  footer .xz-foot ul > :nth-child(1) {
+    color: #333333 !important; }
+  footer .xz-foot .rwm img {
+    width: 70%; }
+
+/*# sourceMappingURL=footer.css.map */

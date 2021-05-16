@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKE,wBAAY;EACV,gBAAgB,EAAE,OAAO;AAE7B,wDAA4C;EAC1C,OAAO,EAAE,cAAc;AAEzB,0BAAc;EACZ,KAAK,EAAE,cAAc",
+"sources": ["../scss/breadnav.scss"],
+"names": [],
+"file": "breadnav.css"
+}
